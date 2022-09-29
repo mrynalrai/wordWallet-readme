@@ -5,6 +5,6 @@ WordWallet is an open wallet of words that collect words and their meaning via n
 <p>
 It can be accessed at https://wordwallet.netlify.app/
 
-Frontend Source Code: https://github.com/mrynalrai/wordWallet
+Frontend Source Code: https://github.com/mrynalrai/wordWallet <br/>
 Backend Source Code: https://github.com/mrynalrai/wordWalletAPI
 </p>
