@@ -9,5 +9,8 @@ It can be accessed at https://mywordwallet.com/
 Frontend Source Code: https://github.com/mrynalrai/wordWallet <br/>
 Backend Source Code: https://github.com/mrynalrai/wordWalletAPI
 </p>
-<p> Below are screenshots of the website: </p>
+<p> Below are screenshots of the website. </p>
+
+##Desktop
+<img src="img/ww-login.jpg" alt="Logo" width="960" height="448">
 <img src="img/ww-dashboard.jpg" alt="Logo" width="960" height="448">
