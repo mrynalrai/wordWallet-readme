@@ -21,3 +21,7 @@ Backend Source Code: https://github.com/mrynalrai/wordWalletAPI
   <img src="img/ww-dashboard-word-mob.jpeg" alt="Logo" width="247" height="512">
   <img src="img/ww-dashboard-wordlist-mob.jpeg" alt="Logo" width="247" height="512">
 </div>
+
+## Welcome Email
+
+<img src="img/ww-welcome-email.jpg" alt="Logo" width="358" height="224">
