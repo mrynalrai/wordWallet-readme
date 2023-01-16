@@ -27,7 +27,7 @@
 ## About The Project:
 
 <!-- <p align="justify"> -->
-WordWallet is a mobile and desktop supported web-application that collects words and their meanings via neumorphic mobile and web responsive UI. 
+WordWallet is a mobile and desktop supported web-application that collects words and their meanings via neumorphic mobile and web responsive UI.<br/> 
 It can be accessed at https://mywordwallet.com/ <br/>
                    
 ## Built With
