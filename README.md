@@ -1,6 +1,6 @@
 ## About The Project:
 
-<p align="justify">
+<!-- <p align="justify"> -->
 WordWallet is a mobile and desktop supported web application that collects words and their meanings via neumorphic mobile and web responsive UI. 
 The tech-stack used for this application was:
 # Front-end: 
@@ -19,7 +19,7 @@ The tech-stack used for this application was:
   * Netlify (for hosting Front-end and back-end code)
 # Email service:
   * Sendgrid for sending emails
-</p>
+<!-- </p> -->
 <p>
 It can be accessed at https://mywordwallet.com/
 
