@@ -2,10 +2,12 @@
 
 <!-- <p align="justify"> -->
 WordWallet is a mobile and desktop supported web application that collects words and their meanings via neumorphic mobile and web responsive UI. 
-The tech-stack used for this application was:
+It can be accessed at https://mywordwallet.com/ <br/>
+
+The tech-stack used for developing this application was:
 ## Front-end: 
-  * Vanilla Javascript 
-  * CSS and SCSS (no external css library was used) 
+  * Vanilla Javascript (used MVC arhcitecture)
+  * CSS (no external css library was used) 
   * Webpack
   * Babel
   * Axios (to make REST API calls to the database)
@@ -21,7 +23,6 @@ The tech-stack used for this application was:
   * Sendgrid for sending emails
 <!-- </p> -->
 <!-- <p> -->
-It can be accessed at https://mywordwallet.com/
 
 Frontend Source Code: https://github.com/mrynalrai/wordWallet <br/>
 Backend Source Code: https://github.com/mrynalrai/wordWalletAPI
