@@ -17,7 +17,7 @@ Backend Source Code: https://github.com/mrynalrai/wordWalletAPI
 
 ## Mobile
 <div style="display: flex; flex-direction: column;">
-  <img src="img/ww-login-mob.jpeg" alt="Logo" width="330" height="682">
-  <img src="img/ww-dashboard-word-mob.jpeg" alt="Logo" width="330" height="682">
-  <img src="img/ww-dashboard-wordlist-mob.jpeg" alt="Logo" width="330" height="682">
+  <img src="img/ww-login-mob.jpeg" alt="Logo" width="247" height="512">
+  <img src="img/ww-dashboard-word-mob.jpeg" alt="Logo" width="247" height="512">
+  <img src="img/ww-dashboard-wordlist-mob.jpeg" alt="Logo" width="247" height="512">
 </div>
