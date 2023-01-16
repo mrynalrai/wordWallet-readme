@@ -16,10 +16,10 @@ Backend Source Code: https://github.com/mrynalrai/wordWalletAPI
 <img src="img/ww-dashboard.jpg" alt="Logo" width="1200" height="560">
 
 ## Mobile
-<div style="display: flex; flex-direction: column; align-items: space-between">
-  <img src="img/ww-login-mob.jpeg" alt="Logo" width="247" height="512">
-  <img src="img/ww-dashboard-word-mob.jpeg" alt="Logo" width="247" height="512">
-  <img src="img/ww-dashboard-wordlist-mob.jpeg" alt="Logo" width="247" height="512">
+<div style="display: flex; flex-direction: column;>
+  <img src="img/ww-login-mob.jpeg" alt="Logo" width="247" height="512" style="margin: 20px">
+  <img src="img/ww-dashboard-word-mob.jpeg" alt="Logo" width="247" height="512" style="margin: 20px">
+  <img src="img/ww-dashboard-wordlist-mob.jpeg" alt="Logo" width="247" height="512" style="margin: 20px">
 </div>
 
 ## Welcome Email
