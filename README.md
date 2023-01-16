@@ -66,9 +66,9 @@ Below are few screenshots of the website in desktop and mobile.
 
 ## Mobile
 <div style="display: flex; flex-direction: column;">
-  <img src="img/ww-login-mob.jpeg" alt="Logo" width="247" height="512" style="margin: 50px">
-  <img src="img/ww-dashboard-word-mob.jpeg" alt="Logo" width="247" height="512" style="margin: 50px">
-  <img src="img/ww-dashboard-wordlist-mob.jpeg" alt="Logo" width="247" height="512" style="margin: 50px">
+  <img src="img/ww-login-mob.jpeg" alt="Logo" width="247" height="512">
+  <img src="img/ww-dashboard-word-mob.jpeg" alt="Logo" width="247" height="512">
+  <img src="img/ww-dashboard-wordlist-mob.jpeg" alt="Logo" width="247" height="512">
 </div>
 
 ## Welcome Email
