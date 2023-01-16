@@ -12,11 +12,11 @@ Backend Source Code: https://github.com/mrynalrai/wordWalletAPI
 <p> Below are screenshots of the website. </p>
 
 ## Desktop
-<img src="img/ww-login.jpg" alt="Logo" width="960" height="448">
-<img src="img/ww-dashboard.jpg" alt="Logo" width="960" height="448">
+<img src="img/ww-login.jpg" alt="Logo" width="1200" height="560">
+<img src="img/ww-dashboard.jpg" alt="Logo" width="1200" height="560">
 
 ## Mobile
-<div style="display: flex; flex-direction: column;">
+<div style="display: flex; flex-direction: column; align-items: space-between">
   <img src="img/ww-login-mob.jpeg" alt="Logo" width="247" height="512">
   <img src="img/ww-dashboard-word-mob.jpeg" alt="Logo" width="247" height="512">
   <img src="img/ww-dashboard-wordlist-mob.jpeg" alt="Logo" width="247" height="512">
@@ -24,4 +24,4 @@ Backend Source Code: https://github.com/mrynalrai/wordWalletAPI
 
 ## Welcome Email
 
-<img src="img/ww-welcome-email.jpg" alt="Logo" width="538" height="336">
+<img src="img/ww-welcome-email.jpg" alt="Logo" width="807" height="504">
