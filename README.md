@@ -1,7 +1,24 @@
 ## About The Project:
 
 <p align="justify">
-WordWallet is a three-tier web application that collects words and their meanings via neumorphic mobile and web responsive UI made using HTML5, CSS3, and JavaScript and stores them in the database powered by MongoDB, NodeJS, ExpressJS and Mongoose.
+WordWallet is a mobile and desktop supported web application that collects words and their meanings via neumorphic mobile and web responsive UI. 
+The tech-stack used for this application was:
+# Front-end: 
+  * Vanilla Javascript 
+  * CSS and SCSS (no external css library was used) 
+  * Webpack
+  * Babel
+  * Axios (to make REST API calls to the database)
+# Backe-end:
+  * MongoDB
+  * Express
+  * Mongoose
+  * JSONWebToken (for authentication)
+  * Nodemailer (for sending email )
+# Hosting Service:
+  * Netlify (for hosting Front-end and back-end code)
+# Email service:
+  * Sendgrid for sending emails
 </p>
 <p>
 It can be accessed at https://mywordwallet.com/
