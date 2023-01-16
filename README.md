@@ -24,4 +24,4 @@ Backend Source Code: https://github.com/mrynalrai/wordWalletAPI
 
 ## Welcome Email
 
-<img src="img/ww-welcome-email.jpg" alt="Logo" width="358" height="224">
+<img src="img/ww-welcome-email.jpg" alt="Logo" width="538" height="336">
